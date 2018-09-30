@@ -1,10 +1,4 @@
 .DS_Store
 Thumbs.db
-app_mizuno_core/cartridge/static/*/css/*.css
-app_mizuno_core/cartridge/static/*/css/ie/*.css
-app_mizuno_core/cartridge/static/*/js/*.js
-app_mizuno_core/cartridge/static/*/*/*.*.map
-app_mizuno_core/cartridge/static/*/*/vendor.min.css
-app_mizuno_core/cartridge/static/*/*/vendor.min.js
 node_modules
 .tern-project
