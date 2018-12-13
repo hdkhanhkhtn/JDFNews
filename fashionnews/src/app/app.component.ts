@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import { Location } from '@angular/common';
+
+import { MyserviceService } from './myservice.service';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +10,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'fashionnews';
+
+  constructor(
+  	private location: Location,
+  	private myService: MyserviceService
+  ) {}
+  ngOnInit() {
+  }
 }

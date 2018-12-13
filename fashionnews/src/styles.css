@@ -1492,3 +1492,6 @@ li {
 .hide {
     display: none;
 }
+
+.looks { text-align: center; }
+.looks a.mount_gallery img { margin-bottom: 10px; }
