@@ -15,7 +15,7 @@ const httpOptions = {
 })
 export class MyserviceService {
 
-  private apiUrl = 'http://hackathon.rubygroupe.jp/khanhhd/api/v1';
+  private apiUrl = 'http://hackathon.rubygroupe.jp/khanhhd_api/api/v1';
   private newsAPIUrl = 'http://jsonplaceholder.typicode.com';
 
   constructor(
