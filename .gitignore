@@ -3,3 +3,9 @@ Thumbs.db
 node_modules
 .tern-project
 sftp-config.json
+public
+.npm
+.ash_history
+.bash_history
+.node_repl_history
+.viminfo
